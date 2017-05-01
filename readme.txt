@@ -13,6 +13,6 @@ jadissa-theme-randomizer is pretty self-explanatory but essentially, it randomiz
 
 == Installation ==
 
-Upload the Akismet plugin to your blog and activate it.
+Upload the plugin to your blog and activate it.
 
 == Changelog ==
