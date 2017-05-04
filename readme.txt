@@ -9,7 +9,7 @@ License: GPLv2 or later
 
 == Description ==
 
-jadissa-theme-randomizer is pretty self-explanatory but essentially, it randomizes the active theme at runtime for each page load.
+jadissa-theme-randomizer is a work in progress, as time permits, is self-explanatory but essentially, it randomizes the active theme at runtime for each page load.
 
 == Installation ==
 
